@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "JI3HCKdFyMDcKYCB52omXFP/5kdWbKjaDWiD0gIOdtSfu31C27W742EH8M0kf57aKs4KTHo3QKjlaFVeQy0/iw==",
+  "success": true,
+  "projectFilePath": "/home/josh/QA_Exercise/submission-petstore-2/PetStoreTests/PetStoreTests.csproj",
+  "expectedPackageFiles": [
+    "/home/josh/.nuget/packages/coverlet.collector/3.1.0/coverlet.collector.3.1.0.nupkg.sha512",
+    "/home/josh/.nuget/packages/fsharp.core/6.0.6/fsharp.core.6.0.6.nupkg.sha512",
+    "/home/josh/.nuget/packages/jsonsubtypes/2.0.1/jsonsubtypes.2.0.1.nupkg.sha512",
+    "/home/josh/.nuget/packages/microsoft.codecoverage/16.11.0/microsoft.codecoverage.16.11.0.nupkg.sha512",
+    "/home/josh/.nuget/packages/microsoft.net.test.sdk/16.11.0/microsoft.net.test.sdk.16.11.0.nupkg.sha512",
+    "/home/josh/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/josh/.nuget/packages/microsoft.testplatform.objectmodel/16.11.0/microsoft.testplatform.objectmodel.16.11.0.nupkg.sha512",
+    "/home/josh/.nuget/packages/microsoft.testplatform.testhost/16.11.0/microsoft.testplatform.testhost.16.11.0.nupkg.sha512",
+    "/home/josh/.nuget/packages/netstandard.library/2.0.0/netstandard.library.2.0.0.nupkg.sha512",
+    "/home/josh/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/home/josh/.nuget/packages/nuget.frameworks/5.0.0/nuget.frameworks.5.0.0.nupkg.sha512",
+    "/home/josh/.nuget/packages/nunit/3.13.2/nunit.3.13.2.nupkg.sha512",
+    "/home/josh/.nuget/packages/nunit3testadapter/4.0.0/nunit3testadapter.4.0.0.nupkg.sha512",
+    "/home/josh/.nuget/packages/polly/7.2.3/polly.7.2.3.nupkg.sha512",
+    "/home/josh/.nuget/packages/restsharp/108.0.2/restsharp.108.0.2.nupkg.sha512",
+    "/home/josh/.nuget/packages/system.reflection.metadata/1.6.0/system.reflection.metadata.1.6.0.nupkg.sha512",
+    "/home/josh/.nuget/packages/wethinkcode.qaminimal/0.3.0/wethinkcode.qaminimal.0.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
